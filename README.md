@@ -4,6 +4,10 @@ GP2040-CE is a gamepad firmware for the Raspberry Pi Pico and other boards based
 
 Full documentation can be found at <https://gp2040.info>.
 
+## Notes specific to this VLX branch.
+
+The button mapping on the OLED has been tweaked to match the HRAP Premium VLX. Everything else is the same.
+
 ## Features
 
 * Selectable input modes - XInput, DirectInput, and Nintendo Switch
