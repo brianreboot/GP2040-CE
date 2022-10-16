@@ -34,8 +34,8 @@
 #define PIN_BUTTON_L3   18          // L3 / LS / LS / L3 / 11 / LS
 #define PIN_BUTTON_R3   19          // R3 / RS / RS / R3 / 12 / RS
 #define PIN_BUTTON_A1   20          // A1 / Guide / Home / ~ / 13 / ~
-#define PIN_BUTTON_A2   21          // A2 / ~ / Capture / ~ / 14 / ~
-#define PIN_BUTTON_TURBO 14         // Turbo
+#define PIN_BUTTON_A2   -1          // A2 / ~ / Capture / ~ / 14 / ~
+#define PIN_BUTTON_TURBO -1         // Turbo
 #define PIN_BUTTON_REVERSE -1       // UDLR Reverse
 #define PIN_SLIDER_LS    -1         // Left Stick Slider
 #define PIN_SLIDER_RS    -1         // Right Stick Slider
@@ -73,9 +73,9 @@
 // The default LEDS_[BUTTON] is an order and has nothing to do with what GPIO pin something is connected to.
 // Unless you are planning on running custom animations I would recommmend you leave this as is.
 
-#define TURBO_LED_PIN 15
+#define TURBO_LED_PIN -1
 
-#define BOARD_LEDS_PIN 28
+#define BOARD_LEDS_PIN -1
 
 #define LED_BRIGHTNESS_MAXIMUM 50
 #define LED_BRIGHTNESS_STEPS 5
@@ -168,9 +168,9 @@
 // Special note - All of the splash screen images can be changed via `include/bitmaps.h`
 
 #define HAS_I2C_DISPLAY 1
-#define I2C_SDA_PIN 0
-#define I2C_SCL_PIN 1
-#define I2C_BLOCK i2c0
+#define I2C_SDA_PIN 26
+#define I2C_SCL_PIN 27
+#define I2C_BLOCK i2c1
 #define I2C_SPEED 400000
 #define DISPLAY_FLIP 0
 #define DISPLAY_INVERT 0
