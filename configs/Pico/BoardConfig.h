@@ -29,11 +29,11 @@
 #define PIN_BUTTON_B4   7           // B4 / Y / X / Triangle / 4 / P2
 #define PIN_BUTTON_R1   8           // R1 / RB / R / R1 / 6 / P3
 #define PIN_BUTTON_L1   9           // L1 / LB / L / L1 / 5 / P4
-#define PIN_BUTTON_S1   18          // S1 / Back / Minus / Select / 9 / Coin
-#define PIN_BUTTON_S2   16          // S2 / Start / Plus / Start / 10 / Start
-#define PIN_BUTTON_L3   19          // L3 / LS / LS / L3 / 11 / LS
-#define PIN_BUTTON_R3   20          // R3 / RS / RS / R3 / 12 / RS
-#define PIN_BUTTON_A1   17          // A1 / Guide / Home / ~ / 13 / ~
+#define PIN_BUTTON_S1   19          // S1 / Back / Minus / Select / 9 / Coin
+#define PIN_BUTTON_S2   17          // S2 / Start / Plus / Start / 10 / Start
+#define PIN_BUTTON_L3   20          // L3 / LS / LS / L3 / 11 / LS
+#define PIN_BUTTON_R3   21          // R3 / RS / RS / R3 / 12 / RS
+#define PIN_BUTTON_A1   18          // A1 / Guide / Home / ~ / 13 / ~
 #define PIN_BUTTON_A2   -1          // A2 / ~ / Capture / ~ / 14 / ~
 #define PIN_BUTTON_TURBO -1         // Turbo
 #define PIN_BUTTON_REVERSE -1       // UDLR Reverse
