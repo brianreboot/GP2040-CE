@@ -21,19 +21,19 @@
 #define PIN_DPAD_DOWN   2           // DOWN
 #define PIN_DPAD_RIGHT  5           // RIGHT
 #define PIN_DPAD_LEFT   4           // LEFT
-#define PIN_BUTTON_B1   6           // B1 / A / B / Cross / 2 / K1
-#define PIN_BUTTON_B2   7           // B2 / B / A / Circle / 3 / K2
-#define PIN_BUTTON_R2   8           // R2 / RT / ZR / R2 / 8 / K3
-#define PIN_BUTTON_L2   9           // L2 / LT / ZL / L2 / 7 / K4
-#define PIN_BUTTON_B3   10          // B3 / X / Y / Square / 1 / P1
-#define PIN_BUTTON_B4   11          // B4 / Y / X / Triangle / 4 / P2
-#define PIN_BUTTON_R1   12          // R1 / RB / R / R1 / 6 / P3
-#define PIN_BUTTON_L1   13          // L1 / LB / L / L1 / 5 / P4
-#define PIN_BUTTON_S1   17          // S1 / Back / Minus / Select / 9 / Coin
+#define PIN_BUTTON_B1   10          // B1 / A / B / Cross / 2 / K1
+#define PIN_BUTTON_B2   11          // B2 / B / A / Circle / 3 / K2
+#define PIN_BUTTON_R2   12          // R2 / RT / ZR / R2 / 8 / K3
+#define PIN_BUTTON_L2   13          // L2 / LT / ZL / L2 / 7 / K4
+#define PIN_BUTTON_B3   6           // B3 / X / Y / Square / 1 / P1
+#define PIN_BUTTON_B4   7           // B4 / Y / X / Triangle / 4 / P2
+#define PIN_BUTTON_R1   8           // R1 / RB / R / R1 / 6 / P3
+#define PIN_BUTTON_L1   9           // L1 / LB / L / L1 / 5 / P4
+#define PIN_BUTTON_S1   18          // S1 / Back / Minus / Select / 9 / Coin
 #define PIN_BUTTON_S2   16          // S2 / Start / Plus / Start / 10 / Start
-#define PIN_BUTTON_L3   18          // L3 / LS / LS / L3 / 11 / LS
-#define PIN_BUTTON_R3   19          // R3 / RS / RS / R3 / 12 / RS
-#define PIN_BUTTON_A1   20          // A1 / Guide / Home / ~ / 13 / ~
+#define PIN_BUTTON_L3   19          // L3 / LS / LS / L3 / 11 / LS
+#define PIN_BUTTON_R3   20          // R3 / RS / RS / R3 / 12 / RS
+#define PIN_BUTTON_A1   17          // A1 / Guide / Home / ~ / 13 / ~
 #define PIN_BUTTON_A2   -1          // A2 / ~ / Capture / ~ / 14 / ~
 #define PIN_BUTTON_TURBO -1         // Turbo
 #define PIN_BUTTON_REVERSE -1       // UDLR Reverse
