@@ -6,10 +6,7 @@ Full documentation can be found at <https://gp2040.info>.
 
 ## Notes specific to this VLX branch.
 
-The button mapping on the OLED has been tweaked to match the HRAP Premium VLX. Everything else is the same.
-
-Default OLED pins SCL changed to 27 and SDA changed to 26. <br />
-RGB, turbo and A2 buttons disabled by default.
+The button mapping on the OLED has been tweaked to match the HRAP Premium VLX and I also moved the pins around to make the board less messy.
 
 ## Features
 
