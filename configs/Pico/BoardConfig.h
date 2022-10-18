@@ -168,8 +168,8 @@
 // Special note - All of the splash screen images can be changed via `include/bitmaps.h`
 
 #define HAS_I2C_DISPLAY 1
-#define I2C_SDA_PIN 26
-#define I2C_SCL_PIN 27
+#define I2C_SDA_PIN 14
+#define I2C_SCL_PIN 15
 #define I2C_BLOCK i2c1
 #define I2C_SPEED 400000
 #define DISPLAY_FLIP 0
