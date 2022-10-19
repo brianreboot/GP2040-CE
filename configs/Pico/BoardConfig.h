@@ -29,11 +29,11 @@
 #define PIN_BUTTON_B4   7           // B4 / Y / X / Triangle / 4 / P2
 #define PIN_BUTTON_R1   8           // R1 / RB / R / R1 / 6 / P3
 #define PIN_BUTTON_L1   9           // L1 / LB / L / L1 / 5 / P4
-#define PIN_BUTTON_S1   19          // S1 / Back / Minus / Select / 9 / Coin
-#define PIN_BUTTON_S2   17          // S2 / Start / Plus / Start / 10 / Start
-#define PIN_BUTTON_L3   20          // L3 / LS / LS / L3 / 11 / LS
-#define PIN_BUTTON_R3   21          // R3 / RS / RS / R3 / 12 / RS
-#define PIN_BUTTON_A1   18          // A1 / Guide / Home / ~ / 13 / ~
+#define PIN_BUTTON_S1   20          // S1 / Back / Minus / Select / 9 / Coin
+#define PIN_BUTTON_S2   18          // S2 / Start / Plus / Start / 10 / Start
+#define PIN_BUTTON_L3   26          // L3 / LS / LS / L3 / 11 / LS
+#define PIN_BUTTON_R3   27          // R3 / RS / RS / R3 / 12 / RS
+#define PIN_BUTTON_A1   19          // A1 / Guide / Home / ~ / 13 / ~
 #define PIN_BUTTON_A2   -1          // A2 / ~ / Capture / ~ / 14 / ~
 #define PIN_BUTTON_TURBO -1         // Turbo
 #define PIN_BUTTON_REVERSE -1       // UDLR Reverse
@@ -168,9 +168,9 @@
 // Special note - All of the splash screen images can be changed via `include/bitmaps.h`
 
 #define HAS_I2C_DISPLAY 1
-#define I2C_SDA_PIN 14
-#define I2C_SCL_PIN 15
-#define I2C_BLOCK i2c1
+#define I2C_SDA_PIN 16
+#define I2C_SCL_PIN 17
+#define I2C_BLOCK i2c0
 #define I2C_SPEED 400000
 #define DISPLAY_FLIP 0
 #define DISPLAY_INVERT 0
