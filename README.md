@@ -7,7 +7,7 @@ Full documentation can be found at <https://gp2040.info>.
 The button mapping on the OLED has been tweaked to match the HRAP Premium VLX, pins to meet the requriements of my board
 
 ## Custom PCB
-This firmware was made specifically for my Pico Breakout board
+This firmware was made specifically for my Pico Breakout V2 board
 <https://github.com/brianreboot/brian-pico-breakout>
 
 ## Features
