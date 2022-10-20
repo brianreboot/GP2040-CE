@@ -7,7 +7,7 @@ Full documentation can be found at <https://gp2040.info>.
 The button mapping on the OLED has been tweaked to match the HRAP Premium VLX, pins to meet the requriements of my board
 
 ## Pinouts specific to this VLX branch
-<img src="https://github.com/brianreboot/GP2040-CE/blob/VLX/configs/Pico/assets/PinMapping.png" height=30% width=30% >
+<img src="https://github.com/brianreboot/GP2040-CE/blob/VLX/configs/Pico/assets/PinMapping.png" height=50% width=50% >
 
 
 ## Custom PCB
