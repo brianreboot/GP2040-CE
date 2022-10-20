@@ -9,8 +9,8 @@ The button mapping on the OLED has been tweaked to match the HRAP Premium VLX, p
 
 ## Custom PCB
 This firmware was made specifically for my Pico Breakout V2 board <br />
+<https://github.com/brianreboot/brian-pico-breakout>  <br />
 
-<https://github.com/brianreboot/brian-pico-breakout>
 <img src="https://github.com/brianreboot/GP2040-CE/blob/VLX/configs/Pico/assets/PinMapping.png" height=50% width=50% >
 
 
