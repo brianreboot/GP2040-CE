@@ -44,7 +44,8 @@ const BUTTON_LAYOUTS_RIGHT = [
 	{ label: 'Dancepad', value: 10 },		 // BUTTON_LAYOUT_DANCEPADB
 	{ label: 'Twinstick', value: 11 },	     // BUTTON_LAYOUT_TWINSTICKB
 	{ label: 'Blank', value: 12 },		     // BUTTON_LAYOUT_BLANKB
-	{ label: 'VLX', value: 13 }		         // BUTTON_LAYOUT_VLXB
+	{ label: 'VLX', value: 13 },		     // BUTTON_LAYOUT_VLXB
+	{ label: 'VLX 360', value: 14 }		     // BUTTON_LAYOUT_VLX360
 ];
 
 const SPLASH_MODES = [
