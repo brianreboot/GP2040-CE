@@ -151,7 +151,7 @@ void I2CDisplayAddon::process() {
 				drawVLXB(6, 28, 7, 2);
 				break;
 			case BUTTON_LAYOUT_VLX360:
-				drawVewlix(8, 28, 8, 2);
+				drawVLX360(8, 28, 8, 2);
 				break;
 		}
 	}
