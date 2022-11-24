@@ -31,6 +31,7 @@ typedef enum
 	BUTTON_LAYOUT_TWINSTICKB,
 	BUTTON_LAYOUT_BLANKB,
 	BUTTON_LAYOUT_VLXB,
+	BUTTON_LAYOUT_VLX360,
 } ButtonLayoutRight;
 
 typedef enum
