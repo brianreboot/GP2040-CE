@@ -31,7 +31,7 @@ Full results can be found in the [GP2040-CE Firmware Latency Test Results](https
 
 ## Installation
 
-Prebuilt `uf2` files are available in the [Releases](https://github.com/OpenStickFoundation/GP2040-CE/releases) section.
+Prebuilt `uf2` files are available in the [Releases](https://github.com/brianreboot/GP2040-CE/releases) section.
 
 Currently only a basic RaspBerry Pi Pico setup is supported.  
 
